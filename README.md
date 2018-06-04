@@ -6,5 +6,5 @@
 You will learn to apply your 20% knowledge to building a clone of a responsive music app layout.
 
 ### Reference
-* [A Complete guide to Flexbox - Chris Coyier: CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [A Complete guide to Grid - Chris Coyier: CSS-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [A Complete guide to Flexbox - Chris Coyier(CSS-tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [A Complete guide to Grid - Chris Coyier(CSS-tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
