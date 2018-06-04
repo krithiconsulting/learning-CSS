@@ -1,5 +1,9 @@
 # learning-CSS
 
+## CSS
+[Introduction to CSS. - Par Harold Borgen (Scrimba) ](https://scrimba.com/g/gintrotocss) <br/>Want to learn CSS? Here’s our free 20-part course
+
+
 ## Layout
 * [Learn CSS Grid for free - Par Harold Borgen(Scrimba)](https://scrimba.com/g/gR8PTE). <br/>14 interactive screencasts to take you from beginner to advanced
 * [Learn Flexbox for free - Par Harold Borgen(Scrimba)](https://scrimba.com/g/gflexbox). <br/>12 interactive screencasts to take you from beginner to advanced
