@@ -1,7 +1,7 @@
 # learning-CSS
 
 ## CSS
-[Introduction to CSS. - Par Harold Borgen (Scrimba) ](https://scrimba.com/g/gintrotocss) <br/>Want to learn CSS? Here’s our free 20-part course
+[Introduction to CSS. - Eric Tirado (Scrimba) ](https://scrimba.com/g/gintrotocss) <br/>Want to learn CSS? Here’s our free 20-part course
 
 
 ## Layout
