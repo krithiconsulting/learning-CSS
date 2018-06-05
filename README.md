@@ -1,10 +1,11 @@
-# learning-CSS
+# learning-css
 
 ## CSS
 [Introduction to CSS. - Eric Tirado (Scrimba) ](https://scrimba.com/g/gintrotocss) <br/>Want to learn CSS? Here’s our free 20-part course
 
 
 ## Layout
+* [CSS Grid course - Wes bros - free](https://cssgrid.io/)<br/>Learn CSS Grid with Wes Bos in 25 pretty good videos. From Fundamentals to real world in about 4 hours. 
 * [Learn CSS Grid for free - Par Harold Borgen(Scrimba)](https://scrimba.com/g/gR8PTE). <br/>14 interactive screencasts to take you from beginner to advanced
 * [Learn Flexbox for free - Par Harold Borgen(Scrimba)](https://scrimba.com/g/gflexbox). <br/>12 interactive screencasts to take you from beginner to advanced
 * [Getting Started With CSS Layout (Smashing Magazine) - Rachel Andrew](https://www.smashingmagazine.com/2018/05/guide-css-layout/) 
