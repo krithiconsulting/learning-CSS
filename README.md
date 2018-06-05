@@ -1,6 +1,6 @@
 # learning-css
 
-## CSS
+## Overview
 [Introduction to CSS. - Eric Tirado (Scrimba) ](https://scrimba.com/g/gintrotocss) <br/>Want to learn CSS? Here’s our free 20-part course
 
 
