@@ -3,6 +3,8 @@
 ## Overview
 [Introduction to CSS. - Eric Tirado (Scrimba) ](https://scrimba.com/g/gintrotocss) <br/>Want to learn CSS? Here’s our free 20-part course
 
+[CSS Fundamentals - egghead.io course - free](https://egghead.io/playlists/css-fundamentals-238ce697)
+
 
 ## Layout
 * [CSS Grid course - Wes bros - free](https://cssgrid.io/)<br/>Learn CSS Grid with Wes Bos in 25 pretty good videos. From Fundamentals to real world in about 4 hours. 
