@@ -12,6 +12,11 @@
 * [How to Efficiently Master the CSS Grid — in a Jiffy](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577). <br/>Learn the 20% you need for 80% efficiency with CSS Grid.
 You will learn to apply your 20% knowledge to building a clone of a responsive music app layout.
 
+## Animation 
+Free CSS Animation Book(https://github.com/cssanimation/css-animation-101)
+
+Learn how to bring animation to your web projects
+
 ### Reference
 * [cssreference.io - A free visual guide to CSS](https://cssreference.io/) - Highly recommended
 * [Par Harold Borgen (scrimba) - CSS Articles](https://medium.com/@perborgen)
